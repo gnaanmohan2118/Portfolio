@@ -1,8 +1,5 @@
 # ConnectwithGMG / Portfolio
 
-> AI-Crafted with Claude by Anthropic
-> Apple MacBook Neo inspired design
-
 ## Quick Start
 
 ### Prerequisites
