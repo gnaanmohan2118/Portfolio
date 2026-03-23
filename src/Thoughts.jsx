@@ -21,7 +21,7 @@ export default function Thoughts() {
               <Pill color={b.color}>{b.tag}</Pill>
               <h3 style={{ fontFamily: "var(--fd)", fontSize: 22, fontWeight: 700, letterSpacing: -.3, marginTop: 16, marginBottom: 10, lineHeight: 1.25 }}>{b.title}</h3>
               <p style={{ fontSize: 15, color: "var(--ink2)", lineHeight: 1.6, flex: 1 }}>{b.excerpt}</p>
-              <p style={{ fontSize: 12, color: "var(--ink3)", marginTop: 20 }}>Coming Soon</p>
+             {/*  <p style={{ fontSize: 12, color: "var(--ink3)", marginTop: 20 }}>Coming Soon</p> */}
             </TiltCard></R>
           )}
         </div>
