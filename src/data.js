@@ -88,9 +88,9 @@ export const D = {
   //  { tag: "Category", title: "Title", excerpt: "Short desc.", color: "#hex" }
   // -------------------------------------------------------
   blogs: [
-    { tag: "Society & Political Rant ", title: "On Being Open-Minded in a Closed World", excerpt: "Why questioning norms is not rebellion. It is responsibility.", color: "#5856d6" },
     { tag: "Tech & Life", title: "What DevOps Taught Me About Life", excerpt: "Iteration, resilience, and continuous improvement are life skills.", color: "#0071e3" },
-    { tag: "Travel", title: "1,000 Kilometres on Two Wheels", excerpt: "Breakdowns, sunsets, and everything in between.", color: "#30d158" }
+    { tag: "Society & Political Rant ", title: "On Being Open-Minded in a Closed World", excerpt: "Why questioning norms is not rebellion. It is responsibility.", color: "#5856d6" },
+    { tag: "Travel", title: "My Life on Two Wheels", excerpt: "Breakdowns, sunsets, and everything in between.", color: "#30d158" }
   ]
 };
 
