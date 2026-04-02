@@ -10,7 +10,7 @@ export default function Life() {
     <section style={{ minHeight: "85vh", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", padding: "120px 24px 80px" }}>
       <R><p style={{ fontFamily: "var(--fm)", fontSize: 14, color: "var(--acc)", letterSpacing: 2, textTransform: "uppercase", marginBottom: 20 }}>Beyond the Code</p></R>
       <R d={.1}><h1 style={{ fontFamily: "var(--fd)", fontSize: "clamp(56px,11vw,100px)", fontWeight: 900, lineHeight: .95, letterSpacing: -4 }}>Life of<br /><span style={{ background: "linear-gradient(135deg,var(--acc),#34aadc,#5ac8fa)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>GMG.</span></h1></R>
-      <R d={.2}><p style={{ fontSize: "clamp(18px,2.2vw,22px)", fontWeight: 300, color: "var(--ink2)", maxWidth: 500, lineHeight: 1.5, marginTop: 24 }}>A rider, a photographer, a thinker, and an explorer.</p></R>
+      <R d={.2}><p style={{ fontSize: "clamp(18px,2.2vw,22px)", fontWeight: 300, color: "var(--ink2)", maxWidth: 500, lineHeight: 1.5, marginTop: 24 }}>A rider, a rider, a rider, and somewhere along my life and journey I grew into a thinker, an explorer, still grounded in people and the moments we share.</p></R>
     </section>
 
     <section style={{ padding: "100px 24px", background: "linear-gradient(180deg,var(--bg2),var(--bg))" }}>
